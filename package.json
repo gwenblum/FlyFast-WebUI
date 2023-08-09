@@ -12,7 +12,7 @@
     "@opentelemetry/context-zone": "^1.13.0",
     "@opentelemetry/core": "1.13.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.39.1",
-    "@opentelemetry/instrumentation": "^0.39.1",
+    "@opentelemetry/instrumentation": "^0.41.2",
     "@opentelemetry/instrumentation-document-load": "^0.32.2",
     "@opentelemetry/instrumentation-fetch": "^0.39.1",
     "@opentelemetry/instrumentation-user-interaction": "^0.32.3",
