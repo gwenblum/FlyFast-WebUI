@@ -15,7 +15,7 @@
     "@opentelemetry/instrumentation": "^0.39.1",
     "@opentelemetry/instrumentation-document-load": "^0.32.2",
     "@opentelemetry/instrumentation-fetch": "^0.39.1",
-    "@opentelemetry/instrumentation-user-interaction": "^0.32.3",
+    "@opentelemetry/instrumentation-user-interaction": "^0.33.0",
     "@opentelemetry/instrumentation-xml-http-request": "^0.39.1",
     "@opentelemetry/plugin-react-load": "^0.28.2",
     "@opentelemetry/propagator-b3": "^1.13.0",
