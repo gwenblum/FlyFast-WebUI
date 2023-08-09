@@ -1,5 +1,5 @@
 # Stage 1, Building React Application
-FROM node:12.18.1 as react-build
+FROM node:20.5.0 as react-build
 
 WORKDIR /app
 
